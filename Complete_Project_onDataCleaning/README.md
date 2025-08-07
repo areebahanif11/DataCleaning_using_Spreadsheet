@@ -2,6 +2,9 @@
 
 This repository documents a data cleaning project performed in Microsoft Excel. The goal was to take a raw, messy customer sales dataset and transform it into a clean, reliable, and analysis-ready format. This process is a fundamental first step in any data analysis workflow, ensuring that insights are accurate and trustworthy.
 
+Before Cleaning	After Cleaning
+A view of the raw data with inconsistencies like mixed casing, extra spaces, and typos.	The final, cleaned dataset with standardized headers, formats, and no missing values.
+
 ## Project Overview
 
 The raw dataset contained several common data quality issues, including:
